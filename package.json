@@ -1,0 +1,27 @@
+{
+  "name": "kx-api",
+  "version": "1.0.0",
+  "description": "Test react native log in screen for KX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seunope/kx-api.git"
+  },
+  "keywords": [
+    "kx"
+  ],
+  "author": "Ope Mesonrale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seunope/kx-api/issues"
+  },
+  "homepage": "https://github.com/Seunope/kx-api#readme",
+  "dependencies": {
+    "apollo-server": "^2.0.0-rc.10",
+    "graphql": "^0.13.2",
+    "node-fetch": "^2.1.2"
+  }
+}
